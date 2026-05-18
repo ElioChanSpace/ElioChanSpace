@@ -47,9 +47,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElioChanSpace&show_icons=true&theme=radical&hide_border=true" alt="ElioChanSpace's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChanSpace&theme=radical&hide_border=true" alt="ElioChanSpace's GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ElioChanSpace&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElioChanSpace&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChanSpace&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
